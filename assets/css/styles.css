@@ -1,0 +1,50 @@
+.bg-header {
+    background-image: url(https://desktoplux.com/wallpapers/2000/1591/800x500.jpg);
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: center;
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    
+}
+.text-header {
+    padding-top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    color: black ;
+    text-shadow: 4px 4px 5px white;
+    font-size: 5vh;
+    align-items: center;
+    display: flex;
+    
+    
+}
+.text-headerP {
+    padding-top: 1%;
+    padding-bottom: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    text-shadow: 4px 4px 5px white ;
+    font-size: 2vh;
+    align-items: center;
+    display: flex;
+
+}
+.textacercademi {
+    padding: 4%;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.repository {
+    border-color: black;
+    border-radius: 8px;
+    text-decoration-line: none;
+}
